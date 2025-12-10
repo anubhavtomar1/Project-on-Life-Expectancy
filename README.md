@@ -7,10 +7,10 @@ The analysis is performed using Python in Google Colab, with clear visualization
 
 # Objectives
 
-Analyze global life expectancy trends
-Perform data cleaning and preprocessing
-Visualize relationships between life expectancy and other variables
-Generate meaningful insights from real-world data
+Analyze global life expectancy trends.
+Perform data cleaning and preprocessing.
+Visualize relationships between life expectancy and other variables.
+Generate meaningful insights from real-world data.
 
 # Tools & Technologies
 

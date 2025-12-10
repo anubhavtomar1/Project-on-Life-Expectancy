@@ -14,11 +14,11 @@ Generate meaningful insights from real-world data.
 
 # Tools & Technologies
 
-Google Colab
-Pandas
-Matplotlib
-Seaborn
-GitHub
+Google Colab,
+Pandas,
+Matplotlib,
+Seaborn,
+GitHub,
 Gamma (for web presentation)
 
 # Dataset
@@ -31,11 +31,11 @@ Format: CSV
 
 # Project Workflow
 
-Data Loading
-Data Cleaning (handling missing values, formatting)
-Exploratory Data Analysis (EDA)
-Data Visualization
-Insights & Conclusions
+Data Loading,
+Data Cleaning (handling missing values, formatting),
+Exploratory Data Analysis (EDA),
+Data Visualization,
+Insights & Conclusions.
 
 # Key Insights
 

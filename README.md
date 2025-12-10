@@ -39,9 +39,9 @@ Insights & Conclusions
 
 # Key Insights
 
-Life expectancy has generally increased over the years
-Developed countries tend to have higher life expectancy
-Strong correlation between healthcare factors and life expectancy
+Life expectancy has generally increased over the years.
+Developed countries tend to have higher life expectancy.
+Strong correlation between healthcare factors and life expectancy.
 Years of schooling show a strong positive correlation, indicating that better education empowers individuals with knowledge for healthier lives.
 
 # Web Presentation

@@ -48,3 +48,7 @@ Years of schooling show a strong positive correlation, indicating that better ed
 
 An interactive web page showcasing the project is available here:
 🔗 Gamma Web Page: https://life-expectancy-insights-ih841yq.gamma.site/
+
+# Cleaned CSV File
+
+life_expectancy(1).csv - cleaned file 
